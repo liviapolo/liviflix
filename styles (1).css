@@ -1,0 +1,63 @@
+body {
+    color: rgb(247, 10, 10);
+    background: black;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(228, 64, 42);
+    padding: 20px;
+    font-size: 32px;
+    section {
+        background: rgb(19, 17, 17);
+        padding-bottom: 80px;
+        padding-top: 80px;
+        display: flex;
+        justify-content: center;
+    }
+}
+
+section {
+    background: rgb(236, 52, 20);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+} 
+img {
+    height: 200px;
+}
+section {
+    background: rgb(226, 37, 12);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+/* código escondido */
+
+p {
+    font-size: 20px;
+}
+
+.categoria-videos {
+    
+}
+
+/* código escondido */
+
+.categoria-videos img {
+    opacity 0.5;
+    height: 200px
+}
+
